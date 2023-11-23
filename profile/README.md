@@ -6,12 +6,17 @@
 
 🌈 Our Values: Our core values shape our interactions with clients, colleagues, and collaborators, emphasizing social improvement through innovative software desi​​gn.
 
-One Call Away: Always ready to listen and assist, regardless of the circumstanc​​e.
-Nurture Respect: Valuing individuality and ideas, we appreciate our colleagues and clients while recognizing personal boundari​​es.
-Embrace Change: Optimistically adapting to industry changes, helping our clients carve their nic​​e.
-Design Lives: Using creativity to turn your visions into reality, with unique and innovative ide​​as.
-Beat the Best: Striving to exceed expectations and produce lasting impressio​​e.
-Road Less Traveled: Exploring unconventional paths to bring unique insights into our projec​​e.
+**One Call Away**: Always ready to listen and assist, regardless of the circumstanc​​e.
+
+**Nurture Respect**: Valuing individuality and ideas, we appreciate our colleagues and clients while recognizing personal boundari​​es.
+
+**Embrace Change**: Optimistically adapting to industry changes, helping our clients carve their nic​​e.
+
+**Design Lives**: Using creativity to turn your visions into reality, with unique and innovative ide​​as.
+
+**Beat the Best**: Striving to exceed expectations and produce lasting impressio​​e.
+
+**Road Less Traveled**: Exploring unconventional paths to bring unique insights into our projec​​e.
 
 👩‍💻 Useful Resources: [https://bititude.com](bititude.com)
 
